@@ -1,6 +1,5 @@
 # import pip
 # pip.main(['install', '<package_name>'])
-#
 # pip install -q nltk
 # pip install -q einops
 # pip install -q pyngrok
